@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "creative_name": "Windows 11: Upgrade Your Future",
+    "ndup_id": "W11_123_456",
+    "layout_option": "RightCenter",
+    "tips": "Make sure to back up your files before upgrading to Windows 11 for a seamless transition.",
+    "learn_more": "LearnMoreVariantA",
+    "eula_page": "EULAPageVariantB",
+    "outro_page": "OutroPageVariantC",
+    "decline_outro_page": "",
+    "schedule_page": "SchedulePageVariantA",
+    "loss_aversion_page": "LossAversionPageVariantB",
+    "main_page": "Highlighting the benefits of upgrading to Windows 11, including enhanced security, productivity tools, and a modern interface.",
+    "decline_page": "DeclinePageVariantD"
+  },
+  "field_map": {
+    "NDUP ID": "ndup_id",
+    "Tips Timeout": "tips",
+    "Learn More UI Experiment Enum": "learn_more",
+    "EULA UI Experiment Enum": "eula_page",
+    "Outro UI Experiment Enum": "outro_page",
+    "Decline Outro UI Experiment Enum": "decline_outro_page",
+    "Schedule UI Experiment Enum": "schedule_page",
+    "Loss Aversion UI Experiment Enum": "loss_aversion_page",
+    "Main Page UI Experiment Enum": "main_page"
+  },
+  "image_paths": {
+    "base_directory": "C:\\Users\\t-rishsingh\\OneDrive - Microsoft\\Desktop\\agent images",
+    "images": {
+      "Background Image": "feature_bg4.png",
+      "Loss Aversion Picture3": "bg-image.jpg",
+      "Feature Icon 0": "feature_bg_2.png",
+      "Feature Background 0": "feature_bg0.jpg",
+      "Feature Icon 1": "feature_bg1.png",
+      "Feature Background 1": "feature_bg3.png"
+    }
+  }
+}

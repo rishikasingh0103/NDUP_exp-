@@ -1,0 +1,9 @@
+[project]
+name = "project"  # You can rename this if you want
+version = "0.1.0"
+description = "IRIS Studio CrewAI automation project"
+requires-python = ">=3.9"
+
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]

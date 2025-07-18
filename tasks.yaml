@@ -1,0 +1,15 @@
+creative_task:
+  description: >
+   Launch Edge and go to IRIS Studio.Log in,click through any popups or notices , create a new creative, fill the fields icnluding NDUP ID,layout,upload images and CSV , and save the draft.
+  expected_output: >
+    Confirmation that the creative draft was successfully created and saved.
+  agent: navigator
+
+
+campaign_task:
+  description: >
+    Automate the campaign configurations in the internal campaign tool.
+  expected_output: >
+    Campaign configurations completed and saved.
+  agent: campaigner
+  
